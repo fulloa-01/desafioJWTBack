@@ -22,7 +22,7 @@ const { Pool } = require('pg')
  host: 'postgresql-dev-mt.alwaysdata.net',
  user: 'megadave',
  password: 'megadaveaxl.2022',
- database: 'megadave_joyas',
+ database: 'megadave_softjobs',
  port:5432,
  allowExitOnIdle: true
 }) 
