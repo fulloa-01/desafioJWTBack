@@ -1,6 +1,6 @@
 const usuariosService = require("../services/usuarios");
 const { comparar } = require("../helper/encriptado");
-const { signToken } = require("../helper/generarTokem");
+const { signToken } = require("../helper/generarToken");
 
 const login = async (req, res) => {
   try {
